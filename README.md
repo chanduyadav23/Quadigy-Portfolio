@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+=======
+# Quadigy-Portfolio
+>>>>>>> ee2fa79da1ce05999158a75f1fbe63abcb085bbc
+<<<<<<< HEAD
+(aapka local README content)
+=======
+(GitHub ka README content)
+>>>>>>> origin/main
